@@ -5,15 +5,17 @@ Do you know I like to program in GO?
   
 I am a GO trainer, a GO Lead Developer and a Senior Software Architect.
 
-💬 Stuff that I promote:
+💬  Stuff that I promote:
 - the KISS principle (Keep It Stupid Simple)
 - think first, code later
 - clean architecture
 - TDD
 
-⚡ Fun fact:
+⚡  Fun fact:
 I don't know how to do any other profession
-  
+
+📫 marcelloh@gmail.com
+
   <!--
 **marcelloh/marcelloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
