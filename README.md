@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![<GO>](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![<GO>](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=34abd9)
   
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
