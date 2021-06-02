@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![<GO>](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=34abd9)
+![<GO>](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=GO&logoColor=34abd9)
+Do you know I like to program in GO?
   
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+I am a GO trainer, a GO Lead Developer and a Senior Software Architect.
+
+I like the KISS principle (Keep It Stupid Simple).
 
   <!--
 **marcelloh/marcelloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
