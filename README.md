@@ -4,7 +4,7 @@
 
 Do you know I like to program in GO?
   
-I am a GO trainer, a GO Lead Developer and a Senior Software Architect.
+I am a GO trainer, a GO Principal Developer and a Senior Software Architect.
 
 ## 💬  Stuff that I promote:
 - the KISS principle (Keep It Stupid Simple)
