@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img class="Header-logo" src="https://media-exp1.licdn.com/dms/image/C4E12AQFMqZ6RvPMnqg/article-cover_image-shrink_600_2000/0/1594814842746?e=1628121600&v=beta&t=NkbRH6jCL0v8OykSTJCh-Nhv5JixiykIL8PXcudn_vk" alt="Go" width=25% heigth=25%>
+<img class="Header-logo" src="https://www.bbminfo.com/assets/images/lang-logo/golang.gif" alt="Go" width=25% heigth=25%>
 
 Do you know I like to program in GO?
   
