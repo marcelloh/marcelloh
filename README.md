@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I+am+Marcelloh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+Hi+there%2C+I+am+Marcelloh)](https://git.io/typing-svg)
 
 <img class="Header-logo" src="https://www.bbminfo.com/assets/images/lang-logo/golang.gif" alt="Go" width=10% heigth=10%>
 
