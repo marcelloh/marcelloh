@@ -18,6 +18,9 @@ I don't know how to do any other profession
 ## 📫  Contact me:
 marcelloh@gmail.com
 
+## 🔭 See my publications
+https://dev.to/marcello_h
+
   <!--
 **marcelloh/marcelloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
