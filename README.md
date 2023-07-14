@@ -2,9 +2,9 @@
 
 <img class="Header-logo" src="https://www.bbminfo.com/assets/images/lang-logo/golang.gif" alt="Go" width=10% heigth=10%>
 
-Do you know I like to develop in GO?
+Do you know I like to develop in Go?
   
-I am a GO trainer, a GO Principal Engineer and a Senior Software Architect.
+I am a Go trainer, a Principal Go Engineer and a Senior Software Architect.
 
 ## 💬  Stuff that I promote:
 - the KISS principle (Keep It Stupid Simple)
@@ -13,13 +13,17 @@ I am a GO trainer, a GO Principal Engineer and a Senior Software Architect.
 - TDD
 
 ## ⚡  Fun fact:
-I don't know how to do any other profession
+I don't know how to do any other profession.
 
 ## 📫  Contact me:
 marcelloh@gmail.com
 
 ## 🔭 See my publications
 https://dev.to/marcello_h
+
+## 😃 (helpful) comments on reddit
+https://www.reddit.com/r/golang/
+
 
   <!--
 **marcelloh/marcelloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
