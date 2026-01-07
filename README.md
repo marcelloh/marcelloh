@@ -6,16 +6,19 @@ Do you know I like to develop in Go?
   
 I am a Go trainer, a Principal Go Engineer and a Senior Software Architect.
 
-## 💬  Stuff that I promote:
+## 💬  Stuff that I promote
 - the KISS principle (Keep It Stupid Simple)
 - think first, code later
 - clean architecture
 - TDD
 
-## ⚡  Fun fact:
+## 🔭  My Repositories have moved
+I moved my repos to codeberg, so they are stored on European grounds.
+
+## ⚡  Fun fact
 I don't know how to do any other profession.
 
-## 📫  Contact me:
+## 📫  Contact me
 marcelloh@gmail.com
 
 ## 🔭 See my publications
