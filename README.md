@@ -13,7 +13,7 @@ I am a Go trainer, a Principal Go Engineer and a Senior Software Architect.
 - TDD
 
 ## 🔭  My Repositories have moved
-I moved my repos to codeberg, so they are stored on European grounds.
+I moved my repos to codeberg, so they are stored on European grounds.  
 https://codeberg.org/marcelloh
 
 ## ⚡  Fun fact
